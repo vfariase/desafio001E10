@@ -1,0 +1,33 @@
+{
+	"info": {
+		"_postman_id": "59037969-4dec-4c9d-819f-0985d2fe5334",
+		"name": "Desafio 001E10-vfarias",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Obetner 4 fotos random, con orientación landscape",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "obtener foto featured con termino party",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {},
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
